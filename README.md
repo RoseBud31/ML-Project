@@ -3,7 +3,7 @@ This project involves a classification task to predict whether a client will sub
 
 The classification is implemented using two machine learning models: Neural Networks and Random Forest Classification. The project follows optimal strategies for preparing and preprocessing the dataset, ensuring robust and accurate model performance. Comprehensive details about the dataset, including meta information, class distribution, attributes, and attribute statistics, are available in the linked repository.
 
-#Key steps in this project include:
+# Key steps in this project include:
 
 Dataset preprocessing and preparation based on best practices.
 Implementation of Neural Networks and Random Forest Classification models using appropriate libraries and frameworks.
